@@ -1,4 +1,4 @@
-# Open-Bootcamp_Curso_Python
+# Open-Bootcamp - Curso Python
 
 In this repository you will find some of my digital class notes and solved exercises from the Python course at Open Bootcamp (https://campus.open-bootcamp.com/)
 
